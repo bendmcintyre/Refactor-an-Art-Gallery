@@ -1,1 +1,0 @@
-# Refactor-an-Art-Gallery
